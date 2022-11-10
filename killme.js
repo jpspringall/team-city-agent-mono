@@ -1,4 +1,4 @@
 [
-  { "host1":true},
-  { "host2":false}
+  {"Key":"Host1","Value":false},
+  {"Key":"Host2","Value":true}
 ]

@@ -1,4 +1,4 @@
 [
   {"Key":"pi-web-5b4fb44d9b-8mh27","Value":true},
-  {"Key":"pi-web-b5d47bb7c-mf2bh","Value":true}
+  {"Key":"pi-web-5b4fb44d9b-8mh27","Value":true}
 ]

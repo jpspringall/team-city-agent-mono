@@ -1,4 +1,12 @@
 [
   {"Key":"pi-web-5ccd64d74b-qlqq2","Value":true},
-  {"Key":"pi-web-57579b54f4-skblr","Value":true}
+  {"Key":"pi-web-57579b54f4-skblr","Value":true},
+  {"Key":"pi-web-5ccd64d74b-qlqq2","Value":true},
+{"Key":"pi-web-5ccd64d74b-hsw5k","Value":true},
+{"Key":"pi-web-794b99f58c-cqffc","Value":true},
+{"Key":"pi-web-794b99f58c-g24fj","Value":true},
+{"Key":"pi-web-578dbcb7b8-dxvm2","Value":true},
+{"Key":"pi-web-578dbcb7b8-d5mdp","Value":true},
+{"Key":"pi-web-58969cbdcc-5x28s","Value":true},
+{"Key":"pi-web-58969cbdcc-lt6lp","Value":true}
 ]
